@@ -1,0 +1,21 @@
+Value types-  stack, directly, int, float, long, enum, struct
+	Static
+	Fixed size (overflow exception)
+	Easy to get
+
+Reference types-heap, using class, interface, string, array, object, delegate.
+	Dynamic
+	Find to get
+	
+garbage collector only deallocates in heap.
+as in stack it is deallocated automatically in stack.
+
+memory value of heap is stored in stack and the size of stack depends on system config (34bit/64bit).
+
+stack used by one thread exection
+heap can be used by all parts of the app
+
+type safety- bigger to lower data loss not vice versa
+	  
+type conversion depends on the range
+

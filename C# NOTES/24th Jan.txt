@@ -1,0 +1,14 @@
+system-Assembly
+	extensions- .exe-not shareable ,.dll- dynamic link library - reuseable
+how do we build .dll?
+private assembly
+shared (public) assembly- all dotnet shared in common loc- global assemble cashe - gac
+
+what is assembly
+extension 
+dll
+exe
+private
+shared
+how to prepare common dll
+how to post/push dll in gac gac util.txt, push into shared

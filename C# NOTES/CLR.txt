@@ -1,0 +1,62 @@
+CLR
+
+c#- int case- sensitive vb - Integer not case sensitive
+CTS- common type system
+how is it converted in IL
+
+.exe-> assembly-> contains IL code
+assembly- like packages in JAVA 
+2 parts - Manifest and IL code (meta data)
+manifest info of assembly
+
+ildasm -> dis assmebly
+
+.net reflecter to convert exe to code
+
+reflection - inside DLL 
+
+using System - doesnt String but does for string
+alias for system.String- String
+ReSharper
+
+SQL 
+. -> current
+config- use json, xml 
+compilation is not requried 
+can run in any server
+
+properties- version control
+debugger
+
+
+
+solu*
+team *
+server*
+object*
+
+write all opereator if for each while case all dataType
+
+build vs rebuild vs clean*
+
+pdb file*
+
+bin vs obj*
+
+trace vs debug*
+
+program in vb and c#*
+--- is vb case sensitive?
+--- access modifier why public not working? why shared? why unshared is not defined?
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+

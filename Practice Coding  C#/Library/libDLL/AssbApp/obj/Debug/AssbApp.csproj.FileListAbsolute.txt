@@ -1,0 +1,10 @@
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\AssbApp\bin\Debug\AssbApp.exe.config
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\AssbApp\bin\Debug\AssbApp.exe
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\AssbApp\bin\Debug\AssbApp.pdb
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\AssbApp\bin\Debug\Assembly.dll
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\AssbApp\bin\Debug\Assembly.pdb
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\AssbApp\obj\Debug\AssbApp.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\AssbApp\obj\Debug\AssbApp.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\AssbApp\obj\Debug\AssbApp.csproj.CopyComplete
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\AssbApp\obj\Debug\AssbApp.exe
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\AssbApp\obj\Debug\AssbApp.pdb

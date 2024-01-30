@@ -1,0 +1,34 @@
+1. Fully encapsulated.
+2. Inheritence- Asso
+3. Abstraction
+4. Properties of oops
+5. Top down and bottom up approch
+---------------------------------------------------------------
+programming paradigms
+
+-Structure oriented programming
+-Procedural oriented programming
+-Declarative oriented programing
+-Logical oriented programing
+-Aspect oriented programing
+---------------------------------------------------------------------
+Promotion in overloading
+
+byte->short->int
+char->int
+int->long->float->double
+----------------------------------------------------------------------
+propogation in polymor
+
+---------------------------------------------------------------------
+
+-constructor
+-overloading
+-default access mod
+-interface
+-static 
+-partial keyword
+-primitive non primitive
+-destructor
+
+---------------------------------------------------------------

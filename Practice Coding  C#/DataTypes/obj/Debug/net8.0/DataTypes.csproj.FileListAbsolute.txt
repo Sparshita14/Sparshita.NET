@@ -1,0 +1,14 @@
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\bin\Debug\net8.0\DataTypes.exe
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\bin\Debug\net8.0\DataTypes.deps.json
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\bin\Debug\net8.0\DataTypes.runtimeconfig.json
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\bin\Debug\net8.0\DataTypes.dll
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\bin\Debug\net8.0\DataTypes.pdb
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\obj\Debug\net8.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\obj\Debug\net8.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\obj\Debug\net8.0\DataTypes.AssemblyInfo.cs
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\obj\Debug\net8.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\obj\Debug\net8.0\DataTypes.dll
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\obj\Debug\net8.0\refint\DataTypes.dll
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\obj\Debug\net8.0\DataTypes.pdb
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\obj\Debug\net8.0\DataTypes.genruntimeconfig.cache
+C:\Users\sparshita_chowdhury\source\repos\DataTypes\obj\Debug\net8.0\ref\DataTypes.dll

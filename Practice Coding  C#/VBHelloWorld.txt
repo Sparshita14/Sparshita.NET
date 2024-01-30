@@ -1,0 +1,11 @@
+imports system 'used to include namespace
+module M1 'module
+	Public Class CM 
+	'This is a basic VB code 'this is comment
+	shared sub main() 'this is main
+		Console.WriteLine("Hello World")
+		Console.ReadKey()
+	End sub 'end method
+	End Class
+End module 
+

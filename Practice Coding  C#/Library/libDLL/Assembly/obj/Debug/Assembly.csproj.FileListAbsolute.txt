@@ -1,0 +1,6 @@
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\Assembly\bin\Debug\Assembly.dll
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\Assembly\bin\Debug\Assembly.pdb
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\Assembly\obj\Debug\Assembly.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\Assembly\obj\Debug\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\Assembly\obj\Debug\Assembly.dll
+C:\Users\sparshita_chowdhury\source\repos\Library\libDLL\Assembly\obj\Debug\Assembly.pdb

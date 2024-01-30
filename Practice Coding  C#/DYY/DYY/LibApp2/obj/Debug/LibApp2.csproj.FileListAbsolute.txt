@@ -1,0 +1,2 @@
+C:\Users\sparshita_chowdhury\source\repos\DYY\DYY\LibApp2\obj\Debug\LibApp2.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\source\repos\DYY\DYY\LibApp2\obj\Debug\LibApp2.csproj.CoreCompileInputs.cache

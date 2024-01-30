@@ -1,0 +1,15 @@
+using System;
+ class Program
+    {
+       public static void Main(string[] args)
+        {
+        int i = 34;
+        string s = "Sparsh";
+        Console.WriteLine("Hello World from Sparshita");
+        Console.WriteLine("This is the second commit done on the same day");
+        Console.WriteLine("int "+i);
+        Console.WriteLine("string "+s);
+        Console.ReadLine();
+    }
+   }
+

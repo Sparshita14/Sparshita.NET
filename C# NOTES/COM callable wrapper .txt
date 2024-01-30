@@ -1,0 +1,4 @@
+COM callable wrapper 
+unmanged->ccw->managed
+
+Runtime callable wrapper

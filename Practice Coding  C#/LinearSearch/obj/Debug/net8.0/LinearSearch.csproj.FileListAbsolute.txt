@@ -1,0 +1,14 @@
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\bin\Debug\net8.0\LinearSearch.exe
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\bin\Debug\net8.0\LinearSearch.deps.json
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\bin\Debug\net8.0\LinearSearch.runtimeconfig.json
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\bin\Debug\net8.0\LinearSearch.dll
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\bin\Debug\net8.0\LinearSearch.pdb
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\obj\Debug\net8.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\obj\Debug\net8.0\LinearSearch.AssemblyInfoInputs.cache
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\obj\Debug\net8.0\LinearSearch.AssemblyInfo.cs
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\obj\Debug\net8.0\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\obj\Debug\net8.0\LinearSearch.dll
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\obj\Debug\net8.0\refint\LinearSearch.dll
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\obj\Debug\net8.0\LinearSearch.pdb
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\obj\Debug\net8.0\LinearSearch.genruntimeconfig.cache
+C:\Users\sparshita_chowdhury\source\repos\LinearSearch\obj\Debug\net8.0\ref\LinearSearch.dll
