@@ -80,7 +80,7 @@ EXEC sp_rename 'addvalueUser', 'getUsers';
 
 EXEC sp_rename 'deleteUser', 'deleteUserById';
 
-SELECT * FROM [User]
+SELECT * FROM [User];
 
 SELECT 
   ROUTINE_SCHEMA,

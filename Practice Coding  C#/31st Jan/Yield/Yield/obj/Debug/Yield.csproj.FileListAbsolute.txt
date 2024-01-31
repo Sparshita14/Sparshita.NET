@@ -1,0 +1,7 @@
+C:\Users\sparshita_chowdhury\source\repos\Yield\Yield\obj\Debug\Yield.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\source\repos\Yield\Yield\obj\Debug\Yield.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\source\repos\Yield\Yield\bin\Debug\Yield.exe.config
+C:\Users\sparshita_chowdhury\source\repos\Yield\Yield\bin\Debug\Yield.exe
+C:\Users\sparshita_chowdhury\source\repos\Yield\Yield\bin\Debug\Yield.pdb
+C:\Users\sparshita_chowdhury\source\repos\Yield\Yield\obj\Debug\Yield.exe
+C:\Users\sparshita_chowdhury\source\repos\Yield\Yield\obj\Debug\Yield.pdb
