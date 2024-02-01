@@ -1,0 +1,62 @@
+1st Feb 24 
+
+TryParse
+int b=0;
+bool b=int.TryParse("10",out int b);
+
+convert class
+c++ conversion
+Nullable
+
+out has to assign as it needs to be converted
+we can return only one value in method
+we can use out to get multiple get the output
+
+-------------------------------------------------------------------------------
+
+Ienumerable getenumetor
+
+-------------------------------------------------------------------
+
+Regression testing - testing changes
+Integation testing- indivudually tested testing together
+
+------------------------------------------------------------------------
+
+
+Extensions
+
+adding toInt to string class to convert string to int
+
+public static int ToInt(this string ss, string s){
+	return Convert.ToInt32(s);
+}
+
+this string ss--> referrs to the memory of string class and extends to its memory.
+
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+To add comment while we hover over the extension method
+/// <summary> xml comment
+
+---------------------------------------------------------------------------------------
+
+region
+
+keeping one type of things together like collapse
+
+#region <name>
+<all things>
+#endregion
+
+---------------------------------------------------------------------
+
+Document using sandcastle
+
+----------------------------------------------------------------------------
+
+
