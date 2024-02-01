@@ -6,35 +6,17 @@ using System.Threading.Tasks;
 
 namespace Partial
 {
-    internal class Program
+    public class Program
     {
        public static void Main(string[] args)
         {
-            A a=new A();
-            a.m1();
-            a.m2();
-           // a.m12();
+            PartialClass a =new PartialClass();
+            a.method1();
+            a.method2();
+            int p = 1;
+           //a.pmethod1(p);
             Console.ReadLine();
         }
     }
-    public partial class A
-    {
-        public  void m1()
-        {
-            Console.WriteLine("first method");
-        }
-        // partial void m12(int a) { }
-    }
-    public partial class A
-    {
-        public  void m2()
-        {
-            Console.WriteLine("Second method");
-        }
-       /* partial void m12(int a) {
-            Console.WriteLine("a");
-        }*/
-
-
-    }
+   
 }

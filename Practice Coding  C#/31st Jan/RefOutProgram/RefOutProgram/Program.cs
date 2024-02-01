@@ -27,9 +27,14 @@ namespace RefOutProgram
             // out as Parameter
 
             int i=10;
-           
+            int val ;
             Addition(out i);
+            bool boo = int.TryParse("10", out val); ;
+            Console.WriteLine("boolean for tryparse "+boo);
             Console.WriteLine("value i after method->" + i);
+
+            String t = "10";
+            t.ToInt();
             Console.Read();
         }
         public static void adding(int a)

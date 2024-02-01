@@ -1,0 +1,7 @@
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\1st Feb\Parse\Parse\bin\Debug\Parse.exe.config
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\1st Feb\Parse\Parse\bin\Debug\Parse.exe
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\1st Feb\Parse\Parse\bin\Debug\Parse.pdb
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\1st Feb\Parse\Parse\obj\Debug\Parse.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\1st Feb\Parse\Parse\obj\Debug\Parse.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\1st Feb\Parse\Parse\obj\Debug\Parse.exe
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\1st Feb\Parse\Parse\obj\Debug\Parse.pdb

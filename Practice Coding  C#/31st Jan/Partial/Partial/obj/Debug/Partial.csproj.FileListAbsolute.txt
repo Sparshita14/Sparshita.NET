@@ -5,3 +5,10 @@ C:\Users\sparshita_chowdhury\source\repos\Partial\Partial\obj\Debug\Partial.cspr
 C:\Users\sparshita_chowdhury\source\repos\Partial\Partial\obj\Debug\Partial.csproj.CoreCompileInputs.cache
 C:\Users\sparshita_chowdhury\source\repos\Partial\Partial\obj\Debug\Partial.exe
 C:\Users\sparshita_chowdhury\source\repos\Partial\Partial\obj\Debug\Partial.pdb
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\31st Jan\Partial\Partial\obj\Debug\Partial.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\31st Jan\Partial\Partial\obj\Debug\Partial.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\31st Jan\Partial\Partial\obj\Debug\Partial.exe
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\31st Jan\Partial\Partial\obj\Debug\Partial.pdb
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\31st Jan\Partial\Partial\bin\Debug\Partial.exe.config
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\31st Jan\Partial\Partial\bin\Debug\Partial.exe
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\31st Jan\Partial\Partial\bin\Debug\Partial.pdb

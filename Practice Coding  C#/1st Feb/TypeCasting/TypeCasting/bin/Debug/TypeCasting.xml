@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TypeCasting</name>
+    </assembly>
+    <members>
+        <member name="M:TypeCasting.Exe.IntAdOne(System.String,System.String)">
+            <summary>
+            This method is used to add 1 to the given variable
+            </summary>
+            <param name="qp">this is input parameter</param>
+            <returns>input parameter with +1</returns>
+        </member>
+    </members>
+</doc>
