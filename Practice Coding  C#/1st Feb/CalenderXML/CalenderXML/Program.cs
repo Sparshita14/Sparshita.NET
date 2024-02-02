@@ -3,16 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace LibApp2
+using CalenderLib;
+namespace CalenderXML
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
-            Class1 cd = new Class1();
-            int x = 10;
-            cd.sayhi(10);
+            Class1 cs = new Class1();
+            cs.months(2024);
         }
     }
 }

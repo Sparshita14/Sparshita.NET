@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Days</name>
+    </assembly>
+    <members>
+        <member name="T:Days.Month">
+            <summary>
+            This is class Month has method to get month name
+            </summary>
+        </member>
+        <member name="M:Days.Month.getMonth(System.Int32)">
+            <summary>
+            This is used to get the month using the int value of month i.e MM
+            </summary>
+            <param name="i">this represents the month MM</param>
+        </member>
+    </members>
+</doc>

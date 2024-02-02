@@ -8,9 +8,10 @@ namespace Lib
 {
     public class Class1
     {
-        public void sayhi()
+        
+        public void sayhi(int f)
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello to number sent "+f);
         }
     }
 }
