@@ -1,0 +1,6 @@
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\2nd Feb\SparshitaCollection\SparshitaCollection\bin\Debug\SparshitaCollection.dll
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\2nd Feb\SparshitaCollection\SparshitaCollection\bin\Debug\SparshitaCollection.pdb
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\2nd Feb\SparshitaCollection\SparshitaCollection\obj\Debug\SparshitaCollection.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\2nd Feb\SparshitaCollection\SparshitaCollection\obj\Debug\SparshitaCollection.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\2nd Feb\SparshitaCollection\SparshitaCollection\obj\Debug\SparshitaCollection.dll
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\2nd Feb\SparshitaCollection\SparshitaCollection\obj\Debug\SparshitaCollection.pdb

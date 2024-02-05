@@ -1,0 +1,8 @@
+2nd Feb
+
+new collection
+using double linkedlist or single linkedlist
+
+doesnt exist
+equals value and ref
+
