@@ -10,7 +10,7 @@ namespace OptionalParameter
     {
         public static void  add(int b, int a = 1)
         {
-            Console.WriteLine("a= {0} b={1}", a,b);
+            Console.WriteLine("b= {0} a={1}", b,a);
         }
         static void Main(string[] args)
         {

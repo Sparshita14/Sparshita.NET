@@ -16,7 +16,7 @@ namespace Partial
             Console.WriteLine("first method");
         }
         partial void pmethod1(int a);
-       /* partial void pmethod1(int a)
+       /*partial void pmethod1(int a)
         {
             this.a = a;
             Console.WriteLine(a);

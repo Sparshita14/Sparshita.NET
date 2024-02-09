@@ -1,0 +1,17 @@
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\bin\Debug\CRUDwindows.exe.config
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\bin\Debug\CRUDwindows.exe
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\bin\Debug\CRUDwindows.pdb
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.Properties.Resources.resources
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.csproj.GenerateResource.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.exe
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.pdb
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.Insert.resources
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.Menu.resources
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.Delete.resources
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.Display.resources
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.Update.resources
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\bin\Debug\EmployeeCRUD.dll
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\bin\Debug\EmployeeCRUD.pdb
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\CRUDwindows\CRUDwindows\obj\Debug\CRUDwindows.csproj.CopyComplete

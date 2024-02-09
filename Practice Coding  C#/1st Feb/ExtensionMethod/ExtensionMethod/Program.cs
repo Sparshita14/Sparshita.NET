@@ -10,8 +10,10 @@ namespace ExtensionMethod
     {
         static void Main(string[] args)
         {
+
             int num = 19;
             int sol = num.addingOne(num);
+            
 
             Console.WriteLine("num before-> " + num);
             Console.WriteLine("after extension-> " + sol);
@@ -33,8 +35,9 @@ namespace ExtensionMethod
         /// <returns>return number incremented by 1</returns>
         public static int addingOne(this int i, int a)
         {
-            return a++;
+            a += 1;
+            return a;
         }
     }
 }
-}
+

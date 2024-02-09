@@ -1,0 +1,10 @@
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\EMart\EMart\bin\Debug\EMart.exe.config
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\EMart\EMart\bin\Debug\EMart.exe
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\EMart\EMart\bin\Debug\EMart.pdb
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\EMart\EMart\obj\Debug\EMart.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\EMart\EMart\obj\Debug\EMart.Properties.Resources.resources
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\EMart\EMart\obj\Debug\EMart.csproj.GenerateResource.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\EMart\EMart\obj\Debug\EMart.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\EMart\EMart\obj\Debug\EMart.exe
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\EMart\EMart\obj\Debug\EMart.pdb
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\EMart\EMart\obj\Debug\EMart.Login.resources

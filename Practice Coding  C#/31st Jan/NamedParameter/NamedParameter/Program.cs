@@ -18,6 +18,7 @@ namespace NamedParameter
             helloWorld(hello: "world", "world");
             helloWorld("world", world: "hello");
             helloWorld(hello: "world", world:"hello");
+            helloWorld(world: "helo", hello: "kiki");
             Console.ReadLine();
 
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sparshita_chowdhury\\source\\repos\\Enum\\Enum.csproj",
+      "projectUniqueName": "C:\\Users\\sparshita_chowdhury\\Documents\\My GitHub\\Sparshita.NET\\Practice Coding  C#\\Enum\\Enum.csproj",
       "projectName": "Enum",
-      "projectPath": "C:\\Users\\sparshita_chowdhury\\source\\repos\\Enum\\Enum.csproj",
+      "projectPath": "C:\\Users\\sparshita_chowdhury\\Documents\\My GitHub\\Sparshita.NET\\Practice Coding  C#\\Enum\\Enum.csproj",
       "packagesPath": "C:\\Users\\sparshita_chowdhury\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sparshita_chowdhury\\source\\repos\\Enum\\obj\\",
+      "outputPath": "C:\\Users\\sparshita_chowdhury\\Documents\\My GitHub\\Sparshita.NET\\Practice Coding  C#\\Enum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

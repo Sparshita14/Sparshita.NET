@@ -8,7 +8,7 @@ namespace Params
 {
     internal class Program
     {
-        public static void paramsArray(params int[] num)
+        public static void paramsArray(params  int[] num)
         {
             foreach (int i in num)
             {

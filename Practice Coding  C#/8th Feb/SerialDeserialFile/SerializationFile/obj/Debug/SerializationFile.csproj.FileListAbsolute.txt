@@ -1,0 +1,11 @@
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\SerialDeserialFile\SerializationFile\bin\Debug\SerializationFile.exe.config
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\SerialDeserialFile\SerializationFile\bin\Debug\SerializationFile.exe
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\SerialDeserialFile\SerializationFile\bin\Debug\SerializationFile.pdb
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\SerialDeserialFile\SerializationFile\bin\Debug\SerialDeserialFile.dll
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\SerialDeserialFile\SerializationFile\bin\Debug\SerialDeserialFile.pdb
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\SerialDeserialFile\SerializationFile\bin\Debug\SerialDeserialFile.dll.config
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\SerialDeserialFile\SerializationFile\obj\Debug\SerializationFile.csproj.AssemblyReference.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\SerialDeserialFile\SerializationFile\obj\Debug\SerializationFile.csproj.CoreCompileInputs.cache
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\SerialDeserialFile\SerializationFile\obj\Debug\SerializationFile.csproj.CopyComplete
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\SerialDeserialFile\SerializationFile\obj\Debug\SerializationFile.exe
+C:\Users\sparshita_chowdhury\Documents\My GitHub\Sparshita.NET\Practice Coding  C#\8th Feb\SerialDeserialFile\SerializationFile\obj\Debug\SerializationFile.pdb

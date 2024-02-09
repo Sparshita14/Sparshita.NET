@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sparshita_chowdhury\\source\\repos\\var\\var.csproj": {}
+    "C:\\Users\\sparshita_chowdhury\\Documents\\My GitHub\\Sparshita.NET\\Practice Coding  C#\\var\\var.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sparshita_chowdhury\\source\\repos\\var\\var.csproj": {
+    "C:\\Users\\sparshita_chowdhury\\Documents\\My GitHub\\Sparshita.NET\\Practice Coding  C#\\var\\var.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sparshita_chowdhury\\source\\repos\\var\\var.csproj",
+        "projectUniqueName": "C:\\Users\\sparshita_chowdhury\\Documents\\My GitHub\\Sparshita.NET\\Practice Coding  C#\\var\\var.csproj",
         "projectName": "var",
-        "projectPath": "C:\\Users\\sparshita_chowdhury\\source\\repos\\var\\var.csproj",
+        "projectPath": "C:\\Users\\sparshita_chowdhury\\Documents\\My GitHub\\Sparshita.NET\\Practice Coding  C#\\var\\var.csproj",
         "packagesPath": "C:\\Users\\sparshita_chowdhury\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sparshita_chowdhury\\source\\repos\\var\\obj\\",
+        "outputPath": "C:\\Users\\sparshita_chowdhury\\Documents\\My GitHub\\Sparshita.NET\\Practice Coding  C#\\var\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

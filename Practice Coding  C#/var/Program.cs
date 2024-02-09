@@ -24,9 +24,9 @@ using System.Text;
        f.GetType());
         var t = 12;
         Console.WriteLine("t1==== " + t);
-        t = 11f;
-        Console.WriteLine("t2= " + t);
-        /*
+       /* t = 11f;
+        Console.WriteLine("t2= " + t);*/
+        
                     dynamic d1 = 10;
                     dynamic d2;
                     d2 = Console.ReadLine();
@@ -36,10 +36,13 @@ using System.Text;
                 Console.WriteLine("d2 " + d2.GetType());
                 Console.WriteLine("d3 " + d3);
                 Console.WriteLine("d3 " + d3.GetType());
+        Console.WriteLine("adding dynamic");
+        Console.WriteLine(d1 + d3);
                 d3 = 12;
+                
                 Console.WriteLine("d3= " + d3);
                 Console.WriteLine("d3 " + d3.GetType());
-                //hit ENTER to exit*/
+                //hit ENTER to exit
         Console.ReadLine();
         }
     }

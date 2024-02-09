@@ -177,6 +177,7 @@ namespace SparshitaPalCollection
             }
             if(index==Count)
             {
+                // adding at last
                 Add(item);
                 return;
             }
@@ -184,6 +185,7 @@ namespace SparshitaPalCollection
             Node<T> newNode = new Node<T>(item);
             if(index==0)
             {
+                // adding at first
                 newNode.next = head;
                 head.prev = newNode;
                 head = newNode;

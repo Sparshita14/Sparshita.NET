@@ -48,6 +48,44 @@ namespace CRUDApp
             else Console.WriteLine("Employee details insertion failed");
 
         }
+
+        public void InsertUsingSP()
+        {
+            Console.WriteLine("Enter the following values for insertion");
+            Console.Write("Employee Name- ");
+            String empName = Console.ReadLine();
+            Console.Write("Department of Employee- ");
+            String department = Console.ReadLine();
+            Console.Write("Designation of Employee- ");
+            String designation = Console.ReadLine();
+            Console.WriteLine("Date of Joining");
+            String joingDate = (String)Console.ReadLine();
+
+            SqlCommand cmd = new SqlCommand("InsertSP", this.cn);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("@Name",SqlDbType.NVarChar).Value= empName;
+            cmd.Parameters.Add("@Depart", SqlDbType.NVarChar).Value = department;
+            cmd.Parameters.Add("@Desig", SqlDbType.NVarChar).Value = designation;
+            cmd.Parameters.Add("@Date", SqlDbType.Date).Value=joingDate;
+
+            // 
+            /*SqlParameter sq = new SqlParameter
+            {
+                ParameterName = "@Name",
+                SqlDbType = SqlDbType.NVarChar,
+                Value = empName,
+                Direction=ParameterDirection.Input
+            };
+            cmd.Parameters.Add (sq);
+           */
+            int n = cmd.ExecuteNonQuery();
+            if (n > 0)
+            {
+                Console.WriteLine("Employee details inserted successfully using SP");
+            }
+            else Console.WriteLine("Employee details insertion failed using SP");
+
+        }
         public  void UpdateTable()
         {
             Console.WriteLine("Enter the following for Updation");
@@ -150,9 +188,11 @@ namespace CRUDApp
                 Console.WriteLine("Select Option");
                 Console.WriteLine("1. Display Employee Table (DataReader)");
                 Console.WriteLine("2. Insert into Employee Table");
-                Console.WriteLine("3. Update into Employee Table");
+                Console.WriteLine("3. Insert into Employee Table Using SP");
+                Console.WriteLine("4. Update into Employee Table");
                 Console.WriteLine("5. Delete from Employee Table");
                 Console.WriteLine("6. Display Employee Table (DataSet)");
+                Console.WriteLine("7. Quit");
                 int opt = int.Parse(Console.ReadLine());
                 switch (opt)
                 {
@@ -163,6 +203,9 @@ namespace CRUDApp
                         con.InsertValues();
                         break;
                     case 3:
+                        con.InsertUsingSP();
+                        break;
+                    case 4:
                         con.UpdateTable();
                         break;
                     case 5:
@@ -173,7 +216,7 @@ namespace CRUDApp
                         break;
                     default:
                         cnt = false;
-                        Console.WriteLine("Closing ");
+                        Console.WriteLine("Quiting");
                         con.CloseConnection();
                         break;
                 }
