@@ -1,0 +1,16 @@
+MOM Mentoring Session 8th Jan 2024
+
+Topic- Serialization
+
+Duration- 23mins 40sec
+
+Highlight- [Serialize]==> Attribute
+
+Absentees- None
+
+Action Items-
+DLL two functions
+1. serialize(directory path, object<T>)
+filename should be object name
+if exists append the object
+2. deserialize(directory path, className)
