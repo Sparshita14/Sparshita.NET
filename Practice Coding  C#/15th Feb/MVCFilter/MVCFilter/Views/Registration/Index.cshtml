@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Registration Page";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <h2>Registration Form</h2>
+    @using (Html.BeginForm("Register", "Home", FormMethod.Post))
+    {
+        <div>
+            <label>Name:</label>
+            <input type="text" name="name" />
+        </div>
+        <div>
+            <label>Email:</label>
+            <input type="email" name="email" />
+        </div>
+        <div>
+            <label>Gender:</label>
+            <input type="radio" name="gender" value="Male" /> Male
+            <input type="radio" name="gender" value="Female" /> Female
+        </div>
+        <div>
+            <label>Country:</label>
+            <select name="country">
+                <option value="USA">USA</option>
+                <option value="Canada">Canada</option>
+                <option value="UK">UK</option>
+                <option value="Australia">Australia</option>
+            </select>
+        </div>
+        <div>
+            <label>Interests:</label>
+            <input type="checkbox" name="interests" value="Reading" /> Reading
+            <input type="checkbox" name="interests" value="Sports" /> Sports
+            <input type="checkbox" name="interests" value="Cooking" /> Cooking
+        </div>
+        <input type="submit" value="Submit" />
+    }
+
+    
+    {
+        <h2>Submitted Values:</h2>
+        <p>Name: @ViewBag.Name</p>
+        <p>Email: @ViewBag.Email</p>
+        <p>Gender: @ViewBag.Gender</p>
+        <p>Country: @ViewBag.Country</p>
+        <p>Interests: @string.Join(", ", ViewBag.Interests)</p>
+    }
+</body>
+</html>
